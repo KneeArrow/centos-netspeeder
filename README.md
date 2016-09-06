@@ -1,5 +1,5 @@
 # netspeeder
-for centos7 x64 
+for centos
 
 安装 
 sh netspeeder.sh
