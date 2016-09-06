@@ -1,7 +1,8 @@
 # netspeeder
 for centos7 x64 
 
-sh 
+安装 
+sh netspeeder.sh
 安装完毕之后我们可以看到最后一行，执行启动：
 
 nohup /usr/local/net_speeder/net_speeder venet0 "ip" >/dev/null 2>&1 &
